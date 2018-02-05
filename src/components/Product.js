@@ -1,2 +1,2 @@
 import React from 'react';
-export default Product extendes 
+export default Product extends React.
