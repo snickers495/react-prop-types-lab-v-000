@@ -1,2 +1,2 @@
-// Code Product Component Here
-import
+import React from 'react';
+export default 
