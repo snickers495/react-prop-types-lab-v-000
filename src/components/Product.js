@@ -1,2 +1,6 @@
 import React from 'react';
-export default Product extends React.Component 
+export default Product extends React.Component {
+  render(){
+    
+  }
+}
